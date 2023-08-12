@@ -34,7 +34,8 @@ h2{
     font-size: 3vmax;
 }
 h3{
-    font-size: 2vmax;
+    padding: 10px;
+    font-size: 1.5vmax;
 }
 .score-container{
     display: flex;
